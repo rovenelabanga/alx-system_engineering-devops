@@ -1,2 +1,2 @@
 #!/bin/bash
-typeset -g BEST="School"
+export BEST="School"
